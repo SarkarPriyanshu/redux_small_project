@@ -18,6 +18,10 @@ Store/State : Store is a central store which gives a dispatch function
 							this dispatch function triggers the action that send to all reducers 
 							reducers check to which reducer the action belongs to 
 							execute the related action and then update the state of the store
+							
+
+CodeSandbox:https://codesandbox.io/s/redux-practise-ifq2f
+CodePen:https://codepen.io/POIZNNOIZE/pen/LYxyKxR
 				
 
 
